@@ -1,6 +1,6 @@
 name       : gst-plugins-good
 version    : 0.10.31
-release    : 1
+release    : 2
 source     :
     - http://gstreamer.freedesktop.org/src/gst-plugins-good/gst-plugins-good-0.10.31.tar.xz : 77a8436a7c0a15f876bad29616835046890df2bcaf72da02151bd91e3d292b64
 license    :

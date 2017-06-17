@@ -1,6 +1,6 @@
 <PISI>
     <Source>
-        <Name>gstreamer-0.10-plugins-good</Name>
+        <Name>gst-plugins-good</Name>
         <Packager>
             <Name>Bryan T. Meyers</Name>
             <Email>bmeyers@datadrake.com</Email>
@@ -14,7 +14,7 @@
         <Archive type="binary" sha1sum="79eb0752a961b8e0d15c77d298c97498fbc89c5a">https://solus-project.com/sources/README.Solus</Archive>
     </Source>
     <Package>
-        <Name>gstreamer-0.10-plugins-good</Name>
+        <Name>gst-plugins-good</Name>
         <Summary xml:lang="en">Streaming media framework</Summary>
         <Description xml:lang="en">GStreamer is a streaming media framework that enables applications to share a common set of plugins for things like video encoding and decoding, audio encoding and decoding, audio and video filters, audio visualisation, web streaming and anything else that streams in real-time or otherwise. This package only provides base functionality and libraries.
 </Description>
@@ -88,8 +88,8 @@
         </Files>
     </Package>
     <History>
-        <Update release="1">
-            <Date>2017-06-13</Date>
+        <Update release="2">
+            <Date>2017-06-17</Date>
             <Version>0.10.31</Version>
             <Comment>Packaging update</Comment>
             <Name>Bryan T. Meyers</Name>
